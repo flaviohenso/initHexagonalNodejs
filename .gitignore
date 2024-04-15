@@ -1,0 +1,13 @@
+# Diretórios
+node_modules/
+dist/
+build/
+coverage/
+
+# Arquivos
+.env
+.env.*
+*.log
+
+# Historico local
+.history/
